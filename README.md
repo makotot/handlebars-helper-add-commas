@@ -24,8 +24,12 @@ grunt.initConfig({
 });
 ```
 
-# Usage
+## Usage
 
 ```hbs
 {{addCommas 1000}}
 ```
+
+## License
+
+MIT
