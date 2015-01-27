@@ -16,5 +16,12 @@
   },
   "dependencies": {
     "add-commas": "0.0.4"
-  }
+  },
+  "keywords": [
+    "assemble",
+    "html",
+    "handlebars helper",
+    "handlebars",
+    "commas"
+  ]
 }
