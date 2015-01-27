@@ -1,4 +1,4 @@
-# {{addCommas}}
+# {{addCommas}} [![Build Status](http://img.shields.io/travis/makotot/handlebars-helper-add-commas/master.svg?style=flat)](https://travis-ci.org/makotot/handlebars-helper-add-commas)
 
 > Handlebars helper for adding commas to a number.
 
